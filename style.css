@@ -19,7 +19,7 @@ body {
     position: absolute;
     transform-style: preserve-3d;
     width: 100%;
-    animation: randomRotate 30s infinite ease-in-out;
+    animation: randomRotate 45s infinite ease-in-out;
     /* Slowed down to 30 seconds */
 }
 
